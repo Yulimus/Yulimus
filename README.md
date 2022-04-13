@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on desktop and web-based app
+- :desktop_computer: Owner of Artha Jina Mandala Nusantara (www.arthajina.com)
+- We're currently working on desktop and web-based app
 - 📫 How to reach me: yulimus@arthajina.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yulimus)](https://git.io/streak-stats)</br>
