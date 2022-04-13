@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on desktop, web, and mobile app
+- 🔭 I’m currently working on desktop and web-based app
 - 📫 How to reach me: yulimus@arthajina.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yulimus)](https://git.io/streak-stats)</br>
